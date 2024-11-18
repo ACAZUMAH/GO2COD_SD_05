@@ -73,27 +73,27 @@ Ensure you have the following installed:
 
 1. **Kelvin to Celsius**
    - Converts Kelvin to Celsius using the formula:
-   - code`C = K - 273.15`
+   - `C = K - 273.15`
 
 2. **Celsius to Kelvin**
    - Converts Celsius to Kelvin using the formula:
-   - code<K = C + 273.15>
+   - `K = C + 273.15`
 
 3. **Kelvin to Fahrenheit**
    - Converts Kelvin to Fahrenheit using the formula:
-   - code<F = (K - 273.15) * 9/5 + 32>
+   - `F = (K - 273.15) * 9/5 + 32`
 
 4. **Fahrenheit to Kelvin**
    - Converts Fahrenheit to Kelvin using the formula:
-   - code<K = (F - 32) * 5/9 + 273.15>
+   - `K = (F - 32) * 5/9 + 273.15`
 
 5. **Celsius to Fahrenheit**
    - Converts Celsius to Fahrenheit using the formula:
-   - code<F = C * 9/5 + 32>
+   - `F = C * 9/5 + 32`
 
 6. **Fahrenheit to Celsius**
    - Converts Fahrenheit to Celsius using the formula:
-   - code<C = (F - 32) * 5/9>
+   - `C = (F - 32) * 5/9`
 
 7. **Exit**
    - Exits the application.
