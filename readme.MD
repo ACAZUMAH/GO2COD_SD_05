@@ -73,7 +73,7 @@ Ensure you have the following installed:
 
 1. **Kelvin to Celsius**
    - Converts Kelvin to Celsius using the formula:
-   - code'C = K - 273.15'
+   - code`C = K - 273.15`
 
 2. **Celsius to Kelvin**
    - Converts Celsius to Kelvin using the formula:
